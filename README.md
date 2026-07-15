@@ -1,6 +1,6 @@
-# Fabio Fabrizi ~ [fabrizi.software](https://fabrizi.software)
+# Fabio Fabrizi aka trigger
 
-Progetto e realizzo soluzioni software e automazioni AI su misura per PMI.
+Progettazione & realizzazione soluzioni software e automazioni AI su misura per PMI.
 
 Automazione e AI (agenti, assistenti vocali, RAG, integrazioni LLM), Industria 4.0 (monitoraggio macchine e raccolta dati via OPC UA / MTConnect), gestionali web e integrazioni su misura.
 
